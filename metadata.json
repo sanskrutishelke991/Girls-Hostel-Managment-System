@@ -1,0 +1,6 @@
+{
+  "name": "Ananya Girls Hostel & Mess Management Portal",
+  "description": "Comprehensive girls hostel and mess management portal with role authentication, live mess menu, student admission records, automated fee receipts and dues reminders, time-window attendance & in-out logs, notices, grievances, emergency helpline, visitor logs, and room service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
